@@ -1,4 +1,4 @@
-inheritance
+inherit
 polymorphism
 method overloading
 method overriding
